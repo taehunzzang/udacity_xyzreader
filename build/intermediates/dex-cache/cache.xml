@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/taehun/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-571efd686ea0229e05a2a5b15161fde30fe9debb.jar" />
+    </item>
+    <item
+        jar="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-170924f16c8fc6aa6acaffb7689b1d88be75fd5d.jar" />
+    </item>
+    <item
+        jar="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-9652f40c0d9f5646c1f1e28038e6b5508ecdb214.jar" />
+    </item>
+    <item
+        jar="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-e987caa1a587a384d94ac45d60641e8db6cfa672.jar" />
+    </item>
+    <item
+        jar="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-58000612ab0d0efc6134e6731e6f6e7cae9033ff.jar" />
+    </item>
+    <item
+        jar="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-8dd7a37d2dcfadb550410a093707a5386ea38b2e.jar" />
+    </item>
+    <item
+        jar="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-0376040a699841d4a83fff1ac33e3d30b03c9918.jar" />
+    </item>
+    <item
+        jar="/Users/taehun/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-07b290a038b99fe528d150f996990b961d48da0f.jar" />
+    </item>
+    <item
+        jar="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-6480580f4cb1940e022a7f045691f16ec21d2df4.jar" />
+    </item>
+    <item
+        jar="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-5b5b99e64f664582cab75935b0f35852efb4a94b.jar" />
+    </item>
+    <item
+        jar="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-639d5670cb344b2552fe6a01a86b6b40077948dc.jar" />
+    </item>
+    <item
+        jar="/Users/taehun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-e08e7ed879aff2dca2675e8725b725bca8570dcb.jar" />
+    </item>
+
+</items>
