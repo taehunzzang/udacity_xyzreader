@@ -3,4 +3,4 @@
         android:id="@+id/refresh"
         android:title="@string/action_refresh" />
 </menu>
-<!-- From: file:/Users/taehun/Work/Udacity/NanoDegree/05_Source/xyzreader/XYZReader/src/main/res/menu/main.xml -->
+<!-- From: file:/Users/taehun/Work/Udacity/NanoDegree/05_Source/udacity_xyzreader/XYZReader/src/main/res/menu/main.xml -->
